@@ -1,0 +1,62 @@
+                                  
+                        Module : 1
+
+1. What is software ? What is software engineering ?
+
+-->  Software is a set of instructions, data or programs . Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software application which will satisfy those requirements.
+
+2. Explain types of software
+
+-->  Two main type of software
+      1)Application software
+      2)system software
+
+3. What is SDLC? Explain each phase of SDLC
+
+-->  SDLC is Software Development life cycle
+     (phase of SDCL)
+     s/w : requirement
+     s/w : Analysis
+     s/w : Designing
+     s/w : development
+     s/w : testing or Tester
+     s/w : Maintenance
+
+4. What is DFD? Create a DFD diagram on Flipkart
+
+-->  DFd is Data Flow Diagrams 
+
+  step :1 start
+  step :2 login
+  step :3 search item
+  step :4 buy item
+  step :5 make order
+  step :6 choose payment method
+  step :7 make pyment
+  step :8 close
+
+5. What is Flow chart? Create a flowchart to make addition of two numbers
+
+--> Flow chart is a pictorial representation of algorithms.
+
+1 start
+2 decalare vafribale num1,num2.
+3 read a value for num1,numb2.
+4 add num1,num2 and as sign the result to variable sum
+5 display sum
+6 stop
+
+
+6. What is Use case Diagram? Create a use-case on bill payment on paytm.
+
+-->   
+1 start
+2 select bill typoe
+3 scan bill
+4 choose payment method
+  a by cash
+   b by credit
+    c by debit
+
+5 make payment
+6 stop
